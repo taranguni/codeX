@@ -1,0 +1,15 @@
+
+Rental ID: 1
+Customer ID: 3
+Vehicle ID: 102
+Start: Mon May 26 14:02:42 2025
+End: Fri May 30 14:02:42 2025
+Total Cost: $240.00
+
+Rental ID: 2
+Customer ID: 5
+Vehicle ID: 101
+Start: Mon May 26 14:14:44 2025
+End: Sun Jun  1 14:14:44 2025
+Total Cost: $420.00
+
