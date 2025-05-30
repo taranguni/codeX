@@ -102,6 +102,8 @@ VehicleRentalSystem/
 
 ## Credits
 
+Tarang Shah
+
 
 
 ### Developer:
